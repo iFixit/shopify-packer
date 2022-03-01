@@ -1,3 +1,62 @@
+## [2.4.3](https://github.com/hayes0724/shopify-packer/compare/v2.4.2...v2.4.3) (2022-02-20)
+
+
+### Bug Fixes
+
+* **deps:** update project dependencies  ([#171](https://github.com/hayes0724/shopify-packer/issues/171)) ([0a16958](https://github.com/hayes0724/shopify-packer/commit/0a1695870b2cf0061f2a498f1b0dab2bd52b746c))
+
+## [2.4.2](https://github.com/hayes0724/shopify-packer/compare/v2.4.1...v2.4.2) (2022-02-20)
+
+
+### Bug Fixes
+
+* **deps:** pin copy webpack plugin to major version ([3a00d53](https://github.com/hayes0724/shopify-packer/commit/3a00d536ce9ef4595e374c91f65fbb56abd2bba4))
+
+## [2.4.1](https://github.com/hayes0724/shopify-packer/compare/v2.4.0...v2.4.1) (2022-02-20)
+
+
+### Bug Fixes
+
+* **deps:** bump postcss from 8.2.10 to 8.2.13 ([2f75aac](https://github.com/hayes0724/shopify-packer/commit/2f75aacc9fe95479a59b2a6b163a7782a485ecd2))
+
+# [2.4.0](https://github.com/hayes0724/shopify-packer/compare/v2.3.1...v2.4.0) (2022-02-19)
+
+
+### Bug Fixes
+
+* themekit updated to v1.1.9 to support themekit access app ([cbee44b](https://github.com/hayes0724/shopify-packer/commit/cbee44bab4d08b16cf528a58d3d48c4be227d462)), closes [#124](https://github.com/hayes0724/shopify-packer/issues/124)
+
+
+### Features
+
+* webpack dotenv support ([fd00413](https://github.com/hayes0724/shopify-packer/commit/fd0041317e84b788408209a806daa8c3460480bb))
+
+## [2.3.2](https://github.com/hayes0724/shopify-packer/compare/v2.3.1...v2.3.2) (2022-02-19)
+
+
+### Bug Fixes
+
+* themekit updated to v1.1.9 to support themekit access app ([cbee44b](https://github.com/hayes0724/shopify-packer/commit/cbee44bab4d08b16cf528a58d3d48c4be227d462)), closes [#124](https://github.com/hayes0724/shopify-packer/issues/124)
+
+## [2.3.1](https://github.com/hayes0724/shopify-packer/compare/v2.3.0...v2.3.1) (2022-02-19)
+
+
+### Bug Fixes
+
+* chalk v5 changed to v4.1.2 to support require ([04a8260](https://github.com/hayes0724/shopify-packer/commit/04a826016943ca52d70e8aed20a25bf7121ba362)), closes [#147](https://github.com/hayes0724/shopify-packer/issues/147)
+
+# [2.3.0](https://github.com/hayes0724/shopify-packer/compare/v2.2.0...v2.3.0) (2022-02-19)
+
+
+### Bug Fixes
+
+* removed fibers from sass loader for node 16+ support ([7f2fc11](https://github.com/hayes0724/shopify-packer/commit/7f2fc114a4744eab7a365e87672956e5452744e8)), closes [#145](https://github.com/hayes0724/shopify-packer/issues/145)
+
+
+### Features
+
+* check for ssl and make ca + cert ([abb68e2](https://github.com/hayes0724/shopify-packer/commit/abb68e270ec5628fa624a95d1b8325a2c4ca9d47))
+
 # [2.2.0](https://github.com/hayes0724/shopify-packer/compare/v2.1.11...v2.2.0) (2021-04-30)
 
 
